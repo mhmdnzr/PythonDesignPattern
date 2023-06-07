@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="7053f9c7-dad3-4390-8789-1f78183dbe9c" name="Denadb Mapping">
+      <data-sources db="9d94d9a2-35f7-41d9-9e38-868aee276143" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
