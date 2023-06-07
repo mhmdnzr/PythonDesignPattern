@@ -8,8 +8,9 @@ A simple real world example design patterns in pure python project.
 ## The most trend design patterns
 
 * Structural
-    - [Adapter DP](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-    - [Bridge DP](https://github.com/matiassingers/awesome-readme)
+    - [Adapter DP]()
+    - [Bridge DP]()
+    - [Composite DP](https://refactoring.guru/design-patterns/composite)
 
  
  
